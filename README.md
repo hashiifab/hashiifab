@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Hashiif Abdillah<br>- 👀 I'm a 10th-grade student at SMK Negeri Solo, passionate about AI development and web technologies.<br>- 🌱 Currently, I'm learning HTML, CSS, JavaScript, PHP, and Laravel.<br>- 💞️ I'm interested in collaborating on AI projects or web development projects.<br>- 📫 You can reach me at hashiif.abdillah@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/hashiif-abdillah-665373297/).<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I love exploring new programming languages and technologies!
+👋 Hi, I'm Hashiif Abdillah<br>- 👀 I'm a currently student at SMK Negeri Solo, passionate about AI development and web technologies.<br>- 🌱 Currently, I'm learning HTML, CSS, JavaScript, PHP, and Laravel.<br>- 💞️ I'm interested in collaborating on AI projects or web development projects.<br>- 📫 You can reach me at hashiif.abdillah@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/hashiif-abdillah-665373297/).<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I love exploring new programming languages and technologies!
 
 
 # 💻 Tech Stack:
