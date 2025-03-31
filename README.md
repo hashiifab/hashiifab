@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hashiif Abdillah</h1>
-<h3 align="center">AI Enthusiast | Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
@@ -12,6 +12,14 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 
 </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hashiifab/hashiifab/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hashiifab/hashiifab/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/hashiifab/hashiifab/output/github-snake.svg" />
+  </picture>
+</div>
+
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashiifab&layout=compact&theme=dracula" />
@@ -22,4 +30,3 @@
   ## 💰 You can help me by Donating
 [![Buy Me a Coffee](https://img.shields.io/badge/Nih%20Buat%20Jajan-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.nihbuatjajan.com/hasseeve)  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
